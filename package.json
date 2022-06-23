@@ -1,0 +1,23 @@
+{
+  "name": "renovate-test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinmayamashita/renovate-test2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinmayamashita/renovate-test2/issues"
+  },
+  "homepage": "https://github.com/jinmayamashita/renovate-test2#readme",
+  "dependencies": {
+    "react": "17.0.2"
+  }
+}
